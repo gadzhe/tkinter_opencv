@@ -1,4 +1,4 @@
-import cv2  # pip install opencv-python
+import cv2  # установка (pip install opencv-python)
 from tkinter import *   # встроенный модуль
 from PIL import Image, ImageTk # установка (pip install Pillow)
 
